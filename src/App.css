@@ -1,0 +1,14 @@
+/* body, html{
+    height: 85vh;
+}
+
+.fillPage{
+    height: 100%;
+} */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+#root{
+    color:hsl(246deg 5% 27%);
+}
